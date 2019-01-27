@@ -2,7 +2,7 @@
 layout: post
 title:  "Donkey Car Build Start"
 date:   2019-01-28 01:20:00 UTC+1000
-image:  donkey-start-title.jpg
+image:  donkey-start-top.jpg
 category: Projects
 tags:   [Donkey Car, Autonomous, Self Driving Car, Computer Vision]
 ---
@@ -31,6 +31,7 @@ The docs for the hardware and software are sufficient to get you started, howver
 3. Mechanical Stuff
 
 [3D Printing at Uni](https://www.youtube.com/watch?v=go2yfWgBfSs&feature=youtu.be)
+
 
 ![Donkey Car](/img/donkey-start.jpg)
 
